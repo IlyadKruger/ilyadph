@@ -1,2 +1,3 @@
->>> import pyrogram
->>> pyrogram.__version__
+import pyrogram
+
+pyrogram.__version__
